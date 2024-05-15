@@ -1,0 +1,6 @@
+/* ChipDemo.css */
+
+.p-chip.custom-chip {
+  background: var(--primary-color);
+  color: var(--primary-color-text);
+}
