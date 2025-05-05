@@ -129,6 +129,16 @@ export default function ParticularMeter(props) {
     },
 
     {
+      type: "Other-Contries",
+      code: "othercontries",
+      entities: [
+        { name: "BHUTAN", code: "BHUTAN" },
+        { name: "NEPAL", code: "NEPAL" },
+        { name: "BANGLADESH", code: "BANGLADESH" },
+      ],
+    },
+
+    {
       type: "IPP",
       code: "ipp",
       name: "IPP",
